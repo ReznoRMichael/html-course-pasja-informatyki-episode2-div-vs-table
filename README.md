@@ -1,8 +1,8 @@
-# Learning HTML - Basic HTML
-> Training course - Pasja Informatyki, HTML course, episode 1 ( [Link](https://www.youtube.com/watch?v=k2IydkL3EOs) )
+# Learning HTML - <div> vs <table>
+> Training course - Pasja Informatyki, HTML course, episode 2 ( [Link](https://www.youtube.com/watch?v=2nWSCxIpHfc) )
 
 ## General info
-A simple page with two movies, links, images - showing the basics of HTML.
+Two the same pages - showing differences between using `<div>` and `<table>` structures and when to use which.
 
 ## Technologies
 * HTML5
